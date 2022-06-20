@@ -314,6 +314,9 @@ int main()
 	std::cout << "Trizenklio skaiciaus skaitmenu suma yra lygi" << a << std::endl;
 
 
+	std::cout << "hentai";
+
+
 
 
 
